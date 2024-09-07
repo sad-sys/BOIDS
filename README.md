@@ -12,3 +12,4 @@ This project simulates the flocking behavior of birds using a 3D space. The simu
 - **Boundary Handling:** Birds will turn away when they reach the boundaries of the space to remain within bounds.
 - **Speed Limiting:** Ensures that birds do not exceed a maximum speed.
 - **Random Directional Changes:** Birds make slight random adjustments to their direction to simulate natural movement.
+- **Predator Aversion:** Birds are repelled by a red predator
